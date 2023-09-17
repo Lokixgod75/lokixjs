@@ -5,7 +5,7 @@
 		"Abu",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/Abu-MD",
+	"repository": "https://github.com/Lokixgod75/lokixjs",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
